@@ -34,6 +34,10 @@ Transform your photos with professional watermarks and logos in seconds! Logo Ad
 - No watermarks stored
 - Automatic cache cleanup
 - No data collection
+🔒 **Privacy Policy:**
+ * "The Logo Add Logo application does not collect any personal data from users."
+ * "Images that are edited within the application remain on the device and are not shared with any external parties."
+ * "For any privacy inquiries, please contact us via email: (mmr205657@gmail.com)."
 
 ⚡ **Performance:**
 - Lightning-fast processing
@@ -78,6 +82,11 @@ Download Logo Adder Pro now and give your photos the professional touch they des
 - لا يحتفظ بالعلامات المائية
 - تنظيف تلقائي للذاكرة المؤقتة
 - لا يجمع البيانات
+
+🔒 **سياسة الخصوصية:**
+ * تطبيق  Add Logo لا يقوم بجمع أي بيانات شخصية من المستخدمين.
+ * الصور التي يتم تعديلها داخل التطبيق تبقى داخل الجهاز ولا يتم مشاركتها مع اي جهة خارجية.
+ * لأي استفسارات بخصوص الخصوصية، يرجى التواصل عبر البريد الإلكتروني: (mmr205657@gmail.com).
 
 ⚡ **الأداء:**
 - معالجة فائقة السرعة
