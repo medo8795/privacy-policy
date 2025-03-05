@@ -34,6 +34,7 @@ Transform your photos with professional watermarks and logos in seconds! Logo Ad
 - No watermarks stored
 - Automatic cache cleanup
 - No data collection
+  
 🔒 **Privacy Policy:**
  * "The Logo Add Logo application does not collect any personal data from users."
  * "Images that are edited within the application remain on the device and are not shared with any external parties."
